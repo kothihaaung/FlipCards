@@ -26,7 +26,7 @@ Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich vi
 ## 🎨 Designed for Learners
 
 FlipCards combines minimalism with interactivity.  
-Every element — from the flashcards color to the rounded card edges — is crafted to create a calm and motivating study atmosphere.
+Every element — from the flashcard colors to the rounded card edges — is crafted to create a calm and motivating study atmosphere.
 
 ---
 
