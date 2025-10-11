@@ -28,7 +28,7 @@ Each word includes sample sentences with **furigana** and **translations**.
 
 | Japanese | Thai | Chinese | Korean |
 |------------------|------------|-------------------|----------------------|
-| ![Flashcards](assets/screenshot1.png) | ![Flip](assets/screenshot2.png) | ![Sentence](assets/screenshot3.png) | ![Languages](assets/screenshot4.png) |
+| ![Flashcards](assets/IMG_7977.png) | ![Flip](assets/IMG_7982.png) | ![Sentence](assets/IMG_7954.png) | ![Languages](assets/IMG_7964.png) |
 
 > *(Replace the image paths above with your actual screenshots, e.g. `/images/flipcards1.png`)*
 
