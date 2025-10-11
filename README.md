@@ -17,7 +17,7 @@ Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich vi
 
 - 🃏 **Interactive Flashcards** — Swipe left or right to navigate cards effortlessly.  
 - 🔊 **Built-in Pronunciation** — Tap on any card or sentence to hear native speech, even in silent mode.  
-- 🌍 **Multilingual Support** — Supports Japanese, Finnish, Thai, English, and more.  
+- 🌍 **Multilingual Support** — Supports Japanese, Finnish, Thai, Chinese, and more.  
 - 🧠 **Smart Layout** — Automatically adjusts font size and layout to fit any screen.   
 - 🧩 **Dynamic Content** — Learn Kanji, vocabulary, and grammar with structured sample sentences.  
 
