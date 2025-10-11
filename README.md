@@ -69,8 +69,8 @@ Stay tuned for updates and new language packs.
 ## 👤 Developer
 
 Created by **Thiha Aung**  
-LinkedIn: [https://www.linkedin.com/in/kothihaaung]
-X: [https://x.com/leothihaaung]
+[LinkedIn](https://www.linkedin.com/in/kothihaaung)
+[X (Twitter)](https://x.com/leothihaaung)
 
 ---
 
