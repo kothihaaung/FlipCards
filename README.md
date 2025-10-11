@@ -33,7 +33,7 @@ Every element — from the flashcards color to the rounded card edges — is cra
 ## 🔮 Coming Soon
 
 - More languages
-- More native features
+- More interactive features
 - To reach 2000 words for each language 
 
 ---
