@@ -3,6 +3,14 @@
 **FlipCards** is a beautifully designed flashcard app that makes learning languages simple, intuitive, and enjoyable.  
 Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich visuals, native pronunciation, and smooth interactions.
 
+| Japanese | Thai | Chinese | Korean |
+|------------------|------------|-------------------|----------------------|
+| ![Flashcards](assets/IMG_7977.png) | ![Flip](assets/IMG_7982.png) | ![Sentence](assets/IMG_7954.png) | ![Languages](assets/IMG_7964.png) |
+
+| Hindi | German | French | Finnish |
+|------------------|------------|-------------------|----------------------|
+| ![Flashcards](assets/IMG_7958.png) | ![Flip](assets/IMG_7989.png) | ![Sentence](assets/IMG_7985.png) | ![Languages](assets/IMG_7995.png) |
+
 ---
 
 ## ✨ Key Features
@@ -21,14 +29,6 @@ FlipCards automatically adapts font sizes and layout for every screen size, ensu
 
 ### 🗣 Sample Sentences  
 Each word includes sample sentences with **furigana** and **translations**.
-
----
-
-## 📸 Screenshots
-
-| Japanese | Thai | Chinese | Korean |
-|------------------|------------|-------------------|----------------------|
-| ![Flashcards](assets/IMG_7977.png) | ![Flip](assets/IMG_7982.png) | ![Sentence](assets/IMG_7954.png) | ![Languages](assets/IMG_7964.png) |
 
 ---
 
