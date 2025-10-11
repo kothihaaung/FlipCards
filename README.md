@@ -35,7 +35,7 @@ Each word includes sample sentences with **furigana** and **translations**.
 ## 🎨 Designed for Learners
 
 FlipCards combines minimalism with interactivity.  
-Every element — from the flash animation to the rounded card edges — is crafted to create a calm and motivating study atmosphere.
+Every element — from the flashcards color to the rounded card edges — is crafted to create a calm and motivating study atmosphere.
 
 ---
 
@@ -45,7 +45,6 @@ Every element — from the flash animation to the rounded card edges — is craf
 - Native text-to-speech in multiple languages  
 - Real-time content updates via iCloud  
 - Intuitive layout that feels natural to use  
-- Offline access for reviewing cards anytime  
 
 ---
 
@@ -67,7 +66,7 @@ Stay tuned for updates and new language packs.
 ## 👤 Developer
 
 Created by **Thiha Aung**  
-[LinkedIn](https://www.linkedin.com/in/kothihaaung)
+[LinkedIn](https://www.linkedin.com/in/kothihaaung)  
 [X (Twitter)](https://x.com/leothihaaung)
 
 ---
