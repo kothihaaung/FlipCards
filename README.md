@@ -13,22 +13,13 @@ Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich vi
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-### 🃏 Swipe to Learn  
-Flip through interactive flashcards to learn new words, kanji, or phrases effortlessly. Each card is designed for clarity and focus.
-
-### 🔊 Tap to Speak  
-Tap any card or sentence to hear its pronunciation.
-
-### 🌍 Multilingual Learning  
-Supports Japanese, German, Thai, Korean, and more. Perfect for learners exploring multiple languages.
-
-### 🧠 Smart Layout  
-FlipCards automatically adapts font sizes and layout for every screen size, ensuring a consistent learning experience on iPhone and iPad.
-
-### 🗣 Sample Sentences  
-Each word includes sample sentences with **furigana** and **translations**.
+- 🃏 **Interactive Flashcards** — Swipe left or right to navigate cards effortlessly.  
+- 🔊 **Built-in Pronunciation** — Tap on any card or sentence to hear native speech, even in silent mode.  
+- 🌍 **Multilingual Support** — Supports Japanese, Finnish, Thai, English, and more.  
+- 🧠 **Smart Layout** — Automatically adjusts font size and layout to fit any screen.   
+- 🧩 **Dynamic Content** — Learn Kanji, vocabulary, and grammar with structured sample sentences.  
 
 ---
 
@@ -36,15 +27,6 @@ Each word includes sample sentences with **furigana** and **translations**.
 
 FlipCards combines minimalism with interactivity.  
 Every element — from the flashcards color to the rounded card edges — is crafted to create a calm and motivating study atmosphere.
-
----
-
-## 💡 Highlights
-
-- Beautiful, swipe-based flashcard navigation  
-- Native text-to-speech in multiple languages  
-- Real-time content updates via iCloud  
-- Intuitive layout that feels natural to use  
 
 ---
 
