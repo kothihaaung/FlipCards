@@ -5,16 +5,24 @@ Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich vi
 
 <table>
   <tr>
-    <th style="width:25%; text-align:center;">Japanese</th>
-    <th style="width:25%; text-align:center;">Thai</th>
-    <th style="width:25%; text-align:center;">Chinese</th>
-    <th style="width:25%; text-align:center;">Korean</th>
+    <th style="width:220px; text-align:center;">Japanese</th>
+    <th style="width:220px; text-align:center;">Thai</th>
+    <th style="width:220px; text-align:center;">Chinese</th>
+    <th style="width:220px; text-align:center;">Korean</th>
   </tr>
   <tr>
-    <td><img src="assets/IMG_7977.png" alt="Flashcards" width="100%"></td>
-    <td><img src="assets/IMG_7982.png" alt="Flip" width="100%"></td>
-    <td><img src="assets/IMG_7954.png" alt="Sentence" width="100%"></td>
-    <td><img src="assets/IMG_7964.png" alt="Languages" width="100%"></td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7977.png" alt="Flashcards" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7982.png" alt="Flip" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7954.png" alt="Sentence" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7964.png" alt="Languages" width="200">
+    </td>
   </tr>
 </table>
 
@@ -22,19 +30,26 @@ Swipe, tap, and listen — FlipCards brings your vocabulary to life with rich vi
 
 <table>
   <tr>
-    <th style="width:25%; text-align:center;">Hindi</th>
-    <th style="width:25%; text-align:center;">German</th>
-    <th style="width:25%; text-align:center;">French</th>
-    <th style="width:25%; text-align:center;">Finnish</th>
+    <th style="width:220px; text-align:center;">Hindi</th>
+    <th style="width:220px; text-align:center;">German</th>
+    <th style="width:220px; text-align:center;">French</th>
+    <th style="width:220px; text-align:center;">Finnish</th>
   </tr>
   <tr>
-    <td><img src="assets/IMG_7958.png" alt="Flashcards" width="100%"></td>
-    <td><img src="assets/IMG_7989.png" alt="Flip" width="100%"></td>
-    <td><img src="assets/IMG_7985.png" alt="Sentence" width="100%"></td>
-    <td><img src="assets/IMG_7995.png" alt="Languages" width="100%"></td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7958.png" alt="Flashcards" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7989.png" alt="Flip" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7985.png" alt="Sentence" width="200">
+    </td>
+    <td style="width:220px; text-align:center;">
+      <img src="assets/IMG_7995.png" alt="Languages" width="200">
+    </td>
   </tr>
 </table>
-
 
 ---
 
